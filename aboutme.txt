@@ -1,3 +1,7 @@
 Rohan Bhatt,
 Electrical Engineering,
-Senior
+Senior,
+Software Engineering,
+Music Theory,
+Senior Design,
+Philosophy
